@@ -6,6 +6,7 @@
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+        Private  System.getchar;
 
         /// <summary>
         /// Clean up any resources being used.
